@@ -27,3 +27,5 @@ while running:
 
 # Done! Time to quit.
 pygame.quit()
+
+# Oliver likes poop
